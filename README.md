@@ -1,4 +1,4 @@
-# Netflix Hulu Cmpetitive Analysis 
+# Netflix Hulu Competitive Analysis 
 This notebook is the backed working of tableau dashboard with competitive analysis of Netflix and it's competitor Hulu
 
 ### What I learned
